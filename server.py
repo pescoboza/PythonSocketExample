@@ -1,5 +1,4 @@
 import socket
-import threading
 
 MAX_PACKET_SIZE = 1024
 
